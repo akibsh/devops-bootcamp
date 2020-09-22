@@ -18,7 +18,7 @@ public class TestCalcService {
 		int b = 32;
 		CalcService cs = new CalcService();
 		System.out.println("Testing Sum");
-		Assertions.assertEquals(cs.sum(12, 32), 44);
+		Assertions.assertEquals(cs.sum(a, b), 44);
 	}
 	
 	@Test
@@ -46,6 +46,15 @@ public class TestCalcService {
 		CalcService cs = new CalcService();
 		System.out.println("Testing Divide");
 		Assertions.assertEquals(cs.div(a, b), 10);
+	}
+	
+	@Test
+	public void sumTest2() {
+		int a = 25;
+		int b = 30;
+		CalcService cs = new CalcService();
+		System.out.println("Testing Another Sum");
+		Assertions.assertEquals(cs.sum(a, b), 55);
 	}
 
 }
