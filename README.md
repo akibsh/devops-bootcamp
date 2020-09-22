@@ -30,3 +30,5 @@ The following topics will be covered in this course:
 - [ ] Create 2 REST Service with 5 methods each for JUnit Testing
 
 The further activities will be added as per the bootcamp. The activities will be marked as done according to the implementation
+
+Wrong change
