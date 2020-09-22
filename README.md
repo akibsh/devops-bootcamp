@@ -27,4 +27,4 @@ The following topics will be covered in this course:
 
 - [x] Execute Git Commands
 - [x] Push Spring Boot Application to GitHub
-- [ ] Create 2 REST Service with 5 methods each for JUnit Testing
+- [x] Create 2 REST Service with 5 methods each for JUnit Testing
