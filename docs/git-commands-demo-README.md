@@ -4,4 +4,4 @@ This is a demonstration of basic Git commands as instructed in [README_Git.md](h
 
 > Git Version, Git Config and Git Clone
 
-[!Git Clone](./images/git-1.png)
+<img src="./images/git-1.png">
