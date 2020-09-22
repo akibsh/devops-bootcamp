@@ -26,5 +26,5 @@ The following topics will be covered in this course:
 ## Day 2 Activities
 
 - [x] Execute Git Commands
-- [ ] Push Spring Boot Application to GitHub
+- [x] Push Spring Boot Application to GitHub
 - [ ] Create 2 REST Service with 5 methods each for JUnit Testing
